@@ -78,5 +78,5 @@ class Dog
       LIMIT 1 
     SQL
     DB[:conn].execute(sql, name, breed)
-end 
+  end 
   
