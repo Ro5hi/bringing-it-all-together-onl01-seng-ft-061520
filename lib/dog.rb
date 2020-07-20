@@ -8,8 +8,7 @@ class Dog
     @id = id 
   end 
   
-  def self.all 
-    @@all 
-  end 
+  def 
+  end
   
 end 
